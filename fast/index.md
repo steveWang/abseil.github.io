@@ -52,7 +52,7 @@ below in the order of re-publication.**
         {% assign datelist = datelist | append: cur_date %}
       {% endunless %}
         <p style="text-indent:25px;line-height:5px;">
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </p>
     {% endif %}
   {% endfor %}
