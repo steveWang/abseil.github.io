@@ -24,7 +24,7 @@ description: The Abseil.Io website
 url: "https://abseil.io"
 
 # the subpath of your site. The main Abseil website is not on a subpath
-baseurl: ""
+baseurl: "/abseil.github.io"
 
 # Not currently used
 twitter_username: abseil
