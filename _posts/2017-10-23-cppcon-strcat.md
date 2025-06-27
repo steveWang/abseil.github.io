@@ -18,5 +18,5 @@ for background on what problem it was designed to solve and why it was
 designed the way it was.
 
 <a href="https://www.youtube.com/watch?v=tuWnw3sWZ4w" target="_blank">
-<img src="/img/cppcon-strcat.png" />
+<img src="{{ site.baseurl }}/img/cppcon-strcat.png" />
 </a>

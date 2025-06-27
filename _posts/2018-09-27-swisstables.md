@@ -34,7 +34,7 @@ These hash tables live within the [Abseil `container` library][container-link].
 
 ### `absl::flat_hash_map` and `absl::flat_hash_set`
 
-<img src="/img/flat_hash_map.svg" style="margin:5px;width:30%"
+<img src="{{ site.baseurl }}/img/flat_hash_map.svg" style="margin:5px;width:30%"
   alt="Flat Hash Map Memory Layout"/>
 
 The "flat" Swiss tables should be your default choice. They store their 
@@ -46,7 +46,7 @@ If you require pointer stability or your values are large, consider using an
 
 ### `absl::node_hash_map` and `absl::node_hash_set`
 
-<img src="/img/node_hash_map.svg" style="margin:5px;width:30%"
+<img src="{{ site.baseurl }}/img/node_hash_map.svg" style="margin:5px;width:30%"
   alt="Node Hash Map Memory Layout"/>
 
 The "node" Swiss tables allocate their `value_type` in nodes outside of the 

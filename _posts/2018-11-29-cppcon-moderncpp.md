@@ -39,11 +39,11 @@ information.
 <!--break--> 
 
 <a href="https://www.youtube.com/watch?v=xTdeZ4MxbKo" target="_blank">
-<img src="/img/cppcon-modern-cpp-1.png" />
+<img src="{{ site.baseurl }}/img/cppcon-modern-cpp-1.png" />
 </a>
 
 <a href="https://www.youtube.com/watch?v=tn7oVNrPM8I" target="_blank">
-<img src="/img/cppcon-modern-cpp-2.png" />
+<img src="{{ site.baseurl }}/img/cppcon-modern-cpp-2.png" />
 </a>
 
 [cppcon]: https://www.youtube.com/user/CppCon

@@ -18,5 +18,5 @@ doing a major renaming/refactoring on a codebase as large as Google's.
 Oooh, scary, kids!
 
 <a href="https://www.youtube.com/watch?v=ely_hVVZjEU" target="_blank">
-<img src="/img/cppcon-renaming.png" />
+<img src="{{ site.baseurl }}/img/cppcon-renaming.png" />
 </a>

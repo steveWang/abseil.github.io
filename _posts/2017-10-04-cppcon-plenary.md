@@ -19,5 +19,5 @@ keynote in person, check it out below.
 Find out why "Living at Head" is a good thing!
 
 <a href="https://www.youtube.com/watch?v=tISy7EJQPzI&t=1032s" target="_blank">
-<img src="/img/cppcon-plenary.jpg" />
+<img src="{{ site.baseurl }}/img/cppcon-plenary.jpg" />
 </a>

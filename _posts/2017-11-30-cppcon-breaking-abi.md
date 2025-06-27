@@ -23,5 +23,5 @@ class in Google, decided we eventually should move back to a `std::string`,
 and how we kept Google's engineers happy during the transition.
 
 <a href="https://www.youtube.com/watch?v=NzaYUlAw93k" target="_blank">
-<img src="/img/cppcon-breaking-abi.png" />
+<img src="{{ site.baseurl }}/img/cppcon-breaking-abi.png" />
 </a>
